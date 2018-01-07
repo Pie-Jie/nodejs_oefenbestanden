@@ -1,0 +1,14 @@
+{
+  "name": "07_04",
+  "version": "1.0.0",
+  "description": "oefenmateriaal ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pieter-Jan Desmadryl",
+  "license": "ISC",
+  "dependencies": {
+    "httpster": "^1.0.3"
+  }
+}
